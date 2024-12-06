@@ -8,7 +8,7 @@
 #define GPIO_PIN 529  // Pin number on Raspberry Pi GPIO
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("meghana");
 MODULE_DESCRIPTION("A Simple GPIO Driver for Raspberry Pi");
 MODULE_VERSION("1.0");
 
